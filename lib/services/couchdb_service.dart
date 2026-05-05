@@ -122,7 +122,7 @@ class CouchDbService {
   }
 
   // ---------------------------------------------------------------------------
-  // CONSULTAS ESTRELLA — agregaciones y filtros avanzados
+  // CONSULTAS ESTRELLA
   // ---------------------------------------------------------------------------
 
   /// Crea o ACTUALIZA el design document con las vistas necesarias.
